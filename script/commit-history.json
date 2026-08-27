@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d1ff8eb045dc31a03a7d96479e406c097d1379a6",
     "author": "Soria",
     "commit": {
       "date": "2026-08-27T13:39:53.000Z",
       "message": "feat: agrega funcionalidad cuando no cumple ninguno de los requisitos (numero 2)",
-      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/d1ff8eb045dc31a03a7d96479e406c097d1379a6"
     },
     "stats": {
       "total": 35,
@@ -17,5 +17,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-27T13:43:13.000Z",
+      "message": "feat:deberia generar otro mismo numero si no sigue una regla (numero '1'))",
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 6,
+      "deletions": 3,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

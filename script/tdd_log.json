@@ -8,9 +8,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d1ff8eb045dc31a03a7d96479e406c097d1379a6",
     "commitName": "feat: agrega funcionalidad cuando no cumple ninguno de los requisitos (numero 2)",
     "commitTimestamp": 1787837995828,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1787838066118,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838108545,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:deberia generar otro mismo numero si no sigue una regla (numero '1'))",
+    "commitTimestamp": 1787838194834,
+    "testId": 1
   }
 ]
