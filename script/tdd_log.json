@@ -30,9 +30,39 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8fad82f6329f4e9d652d1a2683978bb55a7807c3",
     "commitName": "feat:deberia generar otro mismo numero si no sigue una regla (numero '1'))",
     "commitTimestamp": 1787838194834,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838220875,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1787838306220,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838643147,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:deberia generar Fizz si el numero es multiplo de 3",
+    "commitTimestamp": 1787838702381,
+    "testId": 2
   }
 ]

@@ -19,12 +19,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "8fad82f6329f4e9d652d1a2683978bb55a7807c3",
     "author": "Soria",
     "commit": {
       "date": "2026-08-27T13:43:13.000Z",
       "message": "feat:deberia generar otro mismo numero si no sigue una regla (numero '1'))",
-      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/8fad82f6329f4e9d652d1a2683978bb55a7807c3"
     },
     "stats": {
       "total": 9,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-27T13:51:40.000Z",
+      "message": "feat:deberia generar Fizz si el numero es multiplo de 3",
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
