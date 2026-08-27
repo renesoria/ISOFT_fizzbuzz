@@ -22,6 +22,9 @@ describe("FizzBuzz", () => {
               it("deberia generar FizzBuzz si el numero es multiplo de 3 y 5", () => {
     expect(fizzbuzz(15)).toEqual("FizzBuzz");
   });
+                it("deberia generar FizzBuzz si el otro numero es multiplo de 3 y 5", () => {
+    expect(fizzbuzz(45)).toEqual("FizzBuzz");
+  });
 });
 
 

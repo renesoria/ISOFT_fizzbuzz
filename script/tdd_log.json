@@ -146,9 +146,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ce7d4d063d930c92573af20c7b83f0b97539a0dc",
     "commitName": "feat: deberia generar FizzBuzz si el numero es multiplo de 3 y 5 (numero 15))",
     "commitTimestamp": 1787839473643,
     "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787839565862,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: deberia generar FizzBuzz si el numero es multiplo de 3 y 5 (numero 45))",
+    "commitTimestamp": 1787839578196,
+    "testId": 8
   }
 ]
