@@ -102,9 +102,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4ce0ecc67118b49dc8cfffcf198090ef25b2bfaf",
     "commitName": "fix: error de descripcion en la prueba de fizz",
     "commitTimestamp": 1787839174437,
     "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787839227355,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787839282078,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: deberia generar Buzz si el numero es otro multiplo de 5",
+    "commitTimestamp": 1787839336648,
+    "testId": 6
   }
 ]

@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4ce0ecc67118b49dc8cfffcf198090ef25b2bfaf",
     "author": "Soria",
     "commit": {
       "date": "2026-08-27T13:59:33.000Z",
       "message": "fix: error de descripcion en la prueba de fizz",
-      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/4ce0ecc67118b49dc8cfffcf198090ef25b2bfaf"
     },
     "stats": {
       "total": 2,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-27T14:02:15.000Z",
+      "message": "feat: deberia generar Buzz si el numero es otro multiplo de 5",
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
