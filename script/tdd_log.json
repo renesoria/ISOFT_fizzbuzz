@@ -96,9 +96,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e2382e29c8796306a01e310c19e184eb953aac28",
     "commitName": "feat:deberia generar Buzz si el numero es multiplo de 5 (numero 5)",
     "commitTimestamp": 1787839058426,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: error de descripcion en la prueba de fizz",
+    "commitTimestamp": 1787839174437,
+    "testId": 5
   }
 ]
