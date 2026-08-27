@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "850f053e96e5e4abc6cc7d7c39ab169fc779b1b1",
     "author": "Soria",
     "commit": {
       "date": "2026-08-27T13:54:17.000Z",
       "message": "feat:deberia generar Fizz si el numero es multiplo de 3 (num6)",
-      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/850f053e96e5e4abc6cc7d7c39ab169fc779b1b1"
     },
     "stats": {
       "total": 4,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-27T13:57:37.000Z",
+      "message": "feat:deberia generar Buzz si el numero es multiplo de 5 (numero 5)",
+      "url": "https://github.com/renesoria/ISOFT_fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

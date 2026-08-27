@@ -74,9 +74,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "850f053e96e5e4abc6cc7d7c39ab169fc779b1b1",
     "commitName": "feat:deberia generar Fizz si el numero es multiplo de 3 (num6)",
     "commitTimestamp": 1787838858957,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838973705,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838999228,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:deberia generar Buzz si el numero es multiplo de 5 (numero 5)",
+    "commitTimestamp": 1787839058426,
+    "testId": 4
   }
 ]
